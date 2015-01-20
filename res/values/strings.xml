@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Schedule</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="make_call">打电话</string>
+    <string name="send_msg">发信息</string>
+    <string name="important_date">重要日期</string>
+    <string name="list">清单</string>
+    <string name="note">便签</string>
+    <string name="flash_light">手电筒</string>
+    <string name="contacts">通讯录</string>
+    <string name="call_history">通话记录</string>
+    <string name="input_phone_number">输入电话</string>
+    <string name="remark">备注</string>
+    <string name="when_to_remind">何时提醒我</string>
+    <string name="later">晚一点</string>
+    <string name="set_time">指定时间</string>
+    <string name="save_in_notifaction_list">存放通知列</string>
+    <string name="five_minute">5分钟</string>
+    <string name="content">内容</string>
+    <string name="shopping_list">购物清单</string>
+    <string name="todolist">待办事项</string>
+    <string name="take">带东西</string>
+    <string name="what_date">什么日子</string>
+    <string name="choose_date">选择日期</string>
+    <string name="pass_list">则已过期任务</string>
+    <string name="phone_number">电话号码</string>
+    <string name="no_name">（无）</string>
+    <string name="title">标题</string>
+    <string name="input_content">请输入内容</string>
+
+    <string-array name="list_to">
+        <item na="what_to_do">要做什么</item>
+        <item na="what_to_buy">要买什么</item>
+        <item na="what_to_take">要带什么</item>
+    </string-array>
+
+</resources>
